@@ -23,7 +23,7 @@ Cheatsheet:
 3. git push origin main
 
 
-P.S.: your submission in the pull request should only be made in the form of yourName_batch
+P.S.: your filename in the pull request should only be made in the form of yourName_batch
 
 */
 
