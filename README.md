@@ -25,3 +25,5 @@
     Wait till your request gets accepted and Vola! Week 1 is completed.
   </li>
 </ol>
+<br>
+### In case of any queries, please mail us at: sci-mat@bmu.edu.in
