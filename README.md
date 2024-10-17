@@ -1,4 +1,4 @@
-# Open Sourcery 2024 Week1 Hacktoberfest
+# Open Sourcery 2024 Batch Week1 Tasks
 
 ## This repository is for 2024 batch students who have participated in Open Sourcery and collects the week 1 tasks. <br><br>
 
