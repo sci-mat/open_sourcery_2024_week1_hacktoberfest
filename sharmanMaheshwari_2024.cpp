@@ -11,7 +11,7 @@ Week 1 Task: Write a C++ Code to print the following butterfly pattern
 ***   ***
 **     **
 *       *
-** updated by Ananya Vijayavergiya
+** updated by Ananya Vijayavergiya btech cse 1
 Task Deadline: 21st October 2024
 
 Cheatsheet: 
