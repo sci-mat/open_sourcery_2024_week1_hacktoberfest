@@ -1,8 +1,8 @@
-#include <iostream4>
+#include <iostream>
 using namespace std;
 int main() {
     int n;
-    
+
     cout << "Enter the size of the butterfly pattern: ";
     cin >> n;
     for (int i = 1; i <= n; i++) {
